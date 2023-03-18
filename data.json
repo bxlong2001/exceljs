@@ -1,0 +1,62 @@
+[
+    {
+        "tenThucPham": "Dầu thực vật",
+        "donViTinh": "lít",
+        "soLuong": 2,
+        "donGia": 61000
+    },
+    {
+        "tenThucPham": "Đường kính",
+        "donViTinh": "kg",
+        "soLuong": 9996.72,
+        "donGia": 26000
+    },
+    {
+        "tenThucPham": "Gạo nếp cái",
+        "donViTinh": "kg",
+        "soLuong": 1.12,
+        "donGia": 32500
+    },
+    {
+        "tenThucPham": "Gạo tẻ máy",
+        "donViTinh": "kg",
+        "soLuong": 15.25,
+        "donGia": 17500
+    },
+    {
+        "tenThucPham": "Gas",
+        "donViTinh": "gam",
+        "soLuong": 13000,
+        "donGia": 21
+    },
+    {
+        "tenThucPham": "Gas PetroLimex",
+        "donViTinh": "gam",
+        "soLuong": 11711.70,
+        "donGia": 37
+    },
+    {
+        "tenThucPham": "Gia vị",
+        "donViTinh": "kg",
+        "soLuong": 0.64,
+        "donGia": 125000
+    },
+    {
+        "tenThucPham": "Hạt nêm Knorr",
+        "donViTinh": "kg",
+        "soLuong": 1.95,
+        "donGia": 83000
+    },
+    {
+        "tenThucPham": "Nước mắm loại I",
+        "donViTinh": "lít",
+        "soLuong": 1.95,
+        "donGia": 130000
+    },
+    {
+        "tenThucPham": "Sữa đặc Vinamilk",
+        "donViTinh": "kg",
+        "soLuong": 3.26,
+        "donGia": 78947
+    }
+]
